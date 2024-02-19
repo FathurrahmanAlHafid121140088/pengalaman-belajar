@@ -2,8 +2,8 @@
 
 **14 Juni 2021**<br>
 Belajar kelas memulai pemrograman java. (progress 21%)
-*Belajar tentang java dan alasan menggunakannya*
-*belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman java*
++Belajar tentang java dan alasan menggunakannya*
++belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman java*
 
 **15 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
